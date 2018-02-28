@@ -1,0 +1,1 @@
+shamela data that used in testing solr accuracy
